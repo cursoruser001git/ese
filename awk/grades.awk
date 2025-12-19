@@ -1,3 +1,6 @@
+command to run 
+awk -f grade.awk students.txt
+
 function getGrade(marks, max) {
     # grading per subject (out of 50)
     if (marks >= 45) return "O"
