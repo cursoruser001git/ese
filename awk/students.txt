@@ -1,0 +1,12 @@
+SRN,RollNo,Name,Year,OS,DAA,SE,CD,MOOC,Total,Grade,Result
+001,101,Paritosh,3rd,45,39,42,41,40,207,O,Pass
+002,102,Affan,3rd,30,28,35,32,34,159,B,Pass
+003,103,Mahesh,3rd,25,18,20,22,19,104,F,Fail
+004,104,Hemant,3rd,38,40,36,35,37,186,A,Pass
+005,105,Shristi,3rd,42,45,43,41,40,211,O,Pass
+006,106,Harshal,3rd,20,24,22,21,18,105,F,Fail
+007,107,Jinay,3rd,32,30,33,31,29,155,B,Pass
+008,108,Vinay,3rd,27,26,25,28,24,130,C,Pass
+009,109,Vedant,3rd,40,39,41,42,40,202,O,Pass
+010,110,Sana,3rd,35,34,32,33,36,170,A,Pass
+011,111,Praharshani,3rd,29,28,27,25,26,135,C,Pass

@@ -1,0 +1,1 @@
+create a datafile with student details of 5 subj and 10 students marks would be out of 50 . then make a grading system with F C B A and O grade. and anoher column pass or fail if F grade then fail else pass . 
